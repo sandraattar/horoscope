@@ -1,0 +1,24 @@
+header{
+  margin-top: 200px;
+}
+body{
+  background-image: url(../images/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px;
+}
+p, h2{
+  color: white;
+  text-align: center;
+}
+div{
+  text-align: center;
+  color: white;
+}
+input, button{
+  padding: 15px;
+  font-size: 90%;
+}
+p{
+  margin: 100px;
+}
